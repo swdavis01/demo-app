@@ -4,7 +4,12 @@ https://github.com/facebookincubator/create-react-app
   
 Redux article:  
 https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros  
-  
+
+2017-04-19
+Add title and body to item
+Move switch statement processing to methods on entity
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
