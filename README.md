@@ -9,6 +9,10 @@ https://www.codementor.io/reactjs/tutorial/intro-to-react-redux-pros
 Add title and body to item
 Move switch statement processing to methods on entity
 
+2017-05-18  
+1. Clone repository  
+2. npm install  
+3. npm start
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
